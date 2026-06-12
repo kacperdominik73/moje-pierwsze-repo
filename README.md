@@ -1,1 +1,1 @@
-# moje-pierwsze-repo EDYCJA1
+BLABLABLA# moje-pierwsze-repo EDYCJA1
